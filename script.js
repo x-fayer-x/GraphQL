@@ -210,7 +210,7 @@ function setGraph(tab) {
         points="${points}" />
         <!-- Axes -->
     <line x1="50" y1="600" x2="650" y2="600" stroke="black" stroke-width="2" />
-    <line x1="50" y1="600" x2="50" y2="0" stroke="black" stroke-width="2" />
+    <line x1="60" y1="600" x2="60" y2="0" stroke="black" stroke-width="2" />
     <!-- Étiquettes pour l'axe des x -->
     ${axeXContent}
     <!-- Étiquettes pour l'axe des y -->
